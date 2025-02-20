@@ -1,1 +1,0 @@
-# EGOTEC_uebung
