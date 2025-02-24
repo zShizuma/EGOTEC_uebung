@@ -74,6 +74,7 @@
 		display: block;
 		padding: 10px;
 		margin: 0 auto;
+		margin-bottom: 10px;
 
 		/* Der HTML-Tag <center> kann ebenfalls dafür sogen, 
 		dass Child-Tags innerhalb des <center>-Tags zentriert werden */
@@ -86,6 +87,7 @@
 		display: block;
 		padding: 10px;
 		margin: 0 auto;
+		margin-top: 10px;
 	}
 
 	/* Tabelle darstellen */

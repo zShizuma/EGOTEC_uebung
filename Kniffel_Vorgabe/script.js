@@ -155,7 +155,6 @@ function resetRound() {
 	// Alle gemerkten Würfelwerte zurücksetzen
 	values = [];
 	rolled = 0;
-	
 	// @TODO Setzen Sie die Anzahl der getätigten Würfe zurück
 }
 
